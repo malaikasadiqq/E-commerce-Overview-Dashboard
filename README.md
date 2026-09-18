@@ -37,7 +37,7 @@ A `RIGHT OUTER JOIN` from child orders to orders (rather than a plain `LEFT JOIN
 
 ## Dashboard Preview
 
-![Top-level KPI cards](images/dashboard-kpis.png)
+![Top-level KPI cards](dashboard-kpis.png)
 
 **Top-level KPIs (filterable by date, locality, currency):**
 
@@ -52,13 +52,13 @@ A `RIGHT OUTER JOIN` from child orders to orders (rather than a plain `LEFT JOIN
 
 ## Breakdown Views
 
-![Order status, top products, and top cities breakdown](images/dashboard-breakdown.png)
+![Order status, top products, and top cities breakdown](dashboard-breakdown.png)
 
 - **Order Status Distribution** — donut chart of delivered vs. returned vs. cancelled orders
 - **Top 10 Products by Revenue** — identifies which SKUs are driving sales
 - **Top 10 Cities by Orders** — regional demand concentration
 
-![Revenue trend and day-of-week analysis](images/dashboard-revenue-trend.png)
+![Revenue trend and day-of-week analysis](dashboard-revenue-trend.png)
 
 - **Revenue Trend (Gross vs. Net, daily)** — dual-axis line/bar combo showing spend spikes (e.g. campaign or sale-day peaks) against the net-of-returns baseline
 - **Day of Week analysis** — identifies which weekdays consistently outperform (e.g. Thursday emerging as the strongest day in this dataset), useful for staffing and promo timing decisions
